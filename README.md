@@ -9,11 +9,9 @@ This project demonstrates basic file reading and writing operations using Java. 
 - **Error Handling**: Handles file not found and input/output exceptions.
 
 ## Requirements
-
 - Java 8 or higher.
 
 ## Setup
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/egaripardic/FileInputsJava.git
