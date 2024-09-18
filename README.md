@@ -9,7 +9,6 @@ This project demonstrates basic file reading and writing operations using Java. 
 
 ## Requirements
 - Java 8 or higher.
-
 ## Setup
 1. Clone the repository:
    ```bash
