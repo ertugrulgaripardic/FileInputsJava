@@ -11,5 +11,5 @@ This project demonstrates basic file reading and writing operations using Java. 
 - Java 8 or higher.
 ## Setup
 1. Clone the repository:
-   ```bash
+bash
    git clone https://github.com/egaripardic/FileInputsJava.git
